@@ -93,9 +93,10 @@
     }
     .info {
         padding-left: 0;
+        padding-bottom: 10px;
     }
     .title {
-        font-size: 1rem;
+        font-size: 0.7rem;
     }
     .other {
         gap: 8px;

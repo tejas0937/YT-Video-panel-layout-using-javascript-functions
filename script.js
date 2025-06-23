@@ -29,7 +29,13 @@ function createcard(title, cName, views, months, duration,thumbnail) {
     </div>`
         document.querySelector(".container").innerHTML = document.querySelector(".container").innerHTML + html
 }
-createcard("React course | Welcome to new video of Api generation | Video #2", "JavascriptTutorials", 56000, 4, "25:00","https://talent500.com/blog/wp-content/uploads/sites/42/2024/05/react-must-be-in-scope-when-using-jsx-scaled-1.jpg")
-createcard("React course | Welcome to new video of Api generation | Video #2", "JavascriptTutorials", 56000, 4, "25:00","https://talent500.com/blog/wp-content/uploads/sites/42/2024/05/react-must-be-in-scope-when-using-jsx-scaled-1.jpg")
-createcard("React course | Welcome to new video of Api generation | Video #2", "JavascriptTutorials", 56000, 4, "25:00","https://talent500.com/blog/wp-content/uploads/sites/42/2024/05/react-must-be-in-scope-when-using-jsx-scaled-1.jpg")
-createcard("React course | Welcome to new video of Api generation | Video #2", "JavascriptTutorials", 56000, 4, "25:00","https://talent500.com/blog/wp-content/uploads/sites/42/2024/05/react-must-be-in-scope-when-using-jsx-scaled-1.jpg")
+createcard("React course | Youtube video layout sample using function | Video #2", "JavascriptTutorials", 56000, 4, "25:00","https://talent500.com/blog/wp-content/uploads/sites/42/2024/05/react-must-be-in-scope-when-using-jsx-scaled-1.jpg")
+createcard("MongoDB course | Youtube video layout sample using function | Video #3", "JavascriptTutorials", 61000, 3, "33:10","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrV5rgO6meF6AoHwYRNz_nmWtD4_-1FMIr2w&s")
+createcard("Nodejs course | Youtube video layout sample using function | Video #4", "JavascriptTutorials", 73000, 3, "43:13","https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png")
+createcard("Tech course | Youtube video layout sample using function | Video #n", "JavascriptTutorials", 0, 3, "00:00","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW9CT45hJG68DUEmOcmPiehu9pH_Rp-IpPPQ&s")
+createcard("Tech course | Youtube video layout sample using function | Video #n", "JavascriptTutorials", 0, 3, "00:00","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW9CT45hJG68DUEmOcmPiehu9pH_Rp-IpPPQ&s")
+createcard("Tech course | Youtube video layout sample using function | Video #n", "JavascriptTutorials", 0, 3, "00:00","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW9CT45hJG68DUEmOcmPiehu9pH_Rp-IpPPQ&s")
+createcard("Tech course | Youtube video layout sample using function | Video #n", "JavascriptTutorials", 0, 3, "00:00","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW9CT45hJG68DUEmOcmPiehu9pH_Rp-IpPPQ&s")
+createcard("Tech course | Youtube video layout sample using function | Video #n", "JavascriptTutorials", 0, 3, "00:00","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW9CT45hJG68DUEmOcmPiehu9pH_Rp-IpPPQ&s")
+createcard("Tech course | Youtube video layout sample using function | Video #n", "JavascriptTutorials", 0, 3, "00:00","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW9CT45hJG68DUEmOcmPiehu9pH_Rp-IpPPQ&s")
+
